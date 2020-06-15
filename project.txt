@@ -4,4 +4,4 @@
 Project kickoff meeting: 
 Some initial data analysis to identify how inflammation changes over time after surgery 
 
-
+Jane is a Dat Scientist and Samit is a statistician. We will need to determine who is responsible for what in this project. 
